@@ -1,4 +1,4 @@
-RewardId,TransactionId,PointsEarned,PointsRedeemed,CurrentBalance
+reward_id,transaction_id,points_earned,points_redeemed,current_balance
 1,1001,38,23,498
 2,1002,16,2,139
 3,1003,16,7,183

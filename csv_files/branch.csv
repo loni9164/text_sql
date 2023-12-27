@@ -1,4 +1,4 @@
-BranchId,BranchName,BranchAddress,BranchPhone,BranchManager,BranchEmail,EstablishedDate,NumberOfEmployees
+branch_id,branch_name,branch_address,branch_phone,branch_manager,branch_email,established_date,number_of_employees
 1,Branch 1,"178 Young Neck Suite 826, New Jennifer, FL 64057",(192)730-3900x294,Laura Perez,kristen70@morgan.com,2008-10-14,13
 2,Branch 2,"105 Ashley Stravenue, South Paulborough, WY 22569",245-022-5506,Louis James,robertspencer@thompson.com,2010-11-14,39
 3,Branch 3,"1258 Gina Trafficway Suite 266, Andreaberg, KS 28113",376.962.5129,Danielle Reyes,nicholascooper@farmer.info,2007-08-01,23

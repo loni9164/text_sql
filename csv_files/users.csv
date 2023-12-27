@@ -1,4 +1,4 @@
-UserId,UserName,UserEmail,UserAddress,UserPhone,DateOfBirth,RegistrationDate,Status,BranchId
+user_id,user_name,user_email,user_address,user_phone,date_of_birth,registration_date,status,branch_id
 1,Gabrielle Anderson,jacobmoore@hotmail.com,"778 Compton Pine Suite 171, Dunlapmouth, AL 57452",2527317877,2010-05-29,2020-01-27,Active,1
 2,Michael Baldwin,ashleymoore@bryant.net,"8658 Mendoza Forge, Sandrahaven, NJ 24295",-2831,2001-01-16,2020-03-18,Active,2
 3,Jordan Lee,bfranco@hotmail.com,"0382 Williams Knoll Apt. 530, Stanleychester, KY 05555",8768321899,1916-11-06,2019-12-26,Inactive,3
